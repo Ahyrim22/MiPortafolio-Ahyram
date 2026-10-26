@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Oct 2026 14:09:28 at https://zrtechsolutions.com/demo/html/Martinez/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Martinez
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://zrtechsolutions.com/demo/html/Martinez/ -O1 "C:\Users\super\OneDrive\Escritorio\PLANTILLA2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informatiMartinezMartinez
+MartinezMartinez
+	such as username/password authentication for websites mirrored in this projectMartinezMartinez
+MartinezMartinez
+	do not share these files/folders if you want these information to remain privateMartinezMartinez
+MartinezMartinez
+MartinezMartinez
+MartinezMartinez
+14:09:54	Error: 	"Not Found" (404) at link https://zrtechsolutions.com/demo/html/Martinez/aMartinezimages/hero-bg-mobile.jpg (from https://zrtechsolutions.com/demo/html/Martinez/asseMartinezlesheets/styles.css)
+MartinezMartinez
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/books-small-2.jpg (from https://zrtechsolutions.com/demo/html/Martinez/Martinezts.html)
+MartinezMartinez
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/app-3.jpg (from https://zrtechsolutions.com/demo/hMartinezeela/projects.html)
+MartinezMartinez
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/app-small-3.jpg (from httpMartineztechsolutions.com/demo/html/Martinez/projects.html)
+MartinezMartinez
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/product-3.jpg (from htMartinezzrtechsolutions.com/demo/html/Martinez/projects.html)
+MartinezMartinez
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/product-small-3.jpg (from https://zrtechsolutions.Martinezmo/html/Martinez/projects.html)
+
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/branding-3.jpg (from https://zrtechsolutions.com/demo/html/Martinez/projects.html)
+
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/branding-small-3.jpg (from https://zrtechsolutions.com/demo/html/Martinez/projects.html)
+
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/books-3.jpg (from https://zrtechsolutions.com/demo/html/Martinez/projects.html)
+
+14:09:54	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/portfolio/books-small-3.jpg (from https://zrtechsolutions.com/demo/html/Martinez/projects.html)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/vendor/isotope-layout/isotope.pkgd.min.js (from https://zrtechsolutions.com/demo/html/Martinez/projects.html)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/blog/blog-4.jpg (from https://zrtechsolutions.com/demo/html/Martinez/blogs.html)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/blog/blog-5.jpg (from https://zrtechsolutions.com/demo/html/Martinez/blogs.html)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/images/blog/blog-6.jpg (from https://zrtechsolutions.com/demo/html/Martinez/blogs.html)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/dist/ (from https://zrtechsolutions.com/demo/html/Martinez/assets/vendor/aos/aos.js)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/${l} (from https://zrtechsolutions.com/demo/html/Martinez/assets/vendor/swiper/swiper-bundle.min.js)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/e (from https://zrtechsolutions.com/demo/html/Martinez/assets/vendor/swiper/swiper-bundle.min.js)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/t.params.url (from https://zrtechsolutions.com/demo/html/Martinez/assets/vendor/swiper/swiper-bundle.min.js)
+
+14:09:55	Error: 	"Too Many Requests" (429) at link https://zrtechsolutions.com/demo/html/Martinez/assets/phpscripts/contact.php (from https://zrtechsolutions.com/demo/html/Martinez/assets/javascripts/contactform.js)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 104 links scanned, 84 files written (5948518 bytes overall) [4488697 bytes received at 166248 bytes/sec], 2708874 bytes transferred using HTTP compression in 43 files, ratio 37%, 34.6 requests per connection
+
+(19 errors, 0 warnings, 0 messages)
+
